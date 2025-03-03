@@ -5,3 +5,5 @@ app.MapGet("/", () => "Hello World!");
 //Rahim
 //Ziya
 app.Run();
+
+//bilgiyön
