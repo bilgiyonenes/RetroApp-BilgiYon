@@ -8,3 +8,4 @@ app.Run();
 
 //bilgiyön
 //Samed
+//deðisiklik
